@@ -1,7 +1,6 @@
-# Canine-Heart-Disease-Analysis-Using-Data-Mining-Techniques
+# 🐶 Canine Heart Disease Analysis Using Data Mining Techniques
 Data mining-based analysis of canine heart disease using ECG data, leveraging K-Means clustering and Isolation Forest to identify cardiac risk patterns through HRV and R-R interval features for early detection and healthcare insights.
 
-# 🐶 Canine Heart Disease Analysis Using Data Mining Techniques
 
 ## 📖 Project Overview
 This project focuses on discovering **risk patterns in canine heart disease** using data mining techniques on ECG and physiological data. By analyzing features such as **Heart Rate Variability (HRV)** and **R-R intervals**, the system identifies abnormal cardiac behaviors and potential health risks to support early diagnosis.
